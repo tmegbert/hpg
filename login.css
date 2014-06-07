@@ -1,0 +1,26 @@
+body {
+    background-color : lightblue;
+}
+
+table {
+    margin-left : 150px;
+    margin-top : 90px;
+    font-family : arial;
+    font-size : 30pt;
+}
+
+.txt {
+    width: 400px;
+    height: 40px;
+    font-family : arial;
+    font-size : 20pt;
+}
+
+tr {
+    height : 40px;
+}
+
+input.sub {
+    font-family : arial;
+    font-size : 30px;
+}

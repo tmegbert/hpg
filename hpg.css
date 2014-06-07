@@ -1,0 +1,44 @@
+body {
+    background-color : lightcyan;
+}
+
+tr.header_row {
+    background-color : lightblue;
+}
+
+th {
+    font-family : arial;
+    font-size : 23pt;
+}
+
+td {
+    font-family : arial;
+    font-size : 20pt;
+}
+
+tr.icon_row {
+    height : 75px;
+    background-color : white;
+}
+
+td.center {
+    text-align : center;
+    width : 70px;
+}
+
+.name {
+    width : 200px;
+    text-align: left;
+}
+
+.teacher {
+    font-family : arial;
+    font-size : 30pt;
+    font-weight : bold;
+}
+
+button {
+    font-size:30px;
+    margin-left:20px;
+    margin-top:25px;
+}
