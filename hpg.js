@@ -1,3 +1,4 @@
+// Javascript for switching icon
 function switchIcon(element){
     var source = element.src;
     var pieces = element.id.split("-");
